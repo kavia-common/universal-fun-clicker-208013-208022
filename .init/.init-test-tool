@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/universal-fun-clicker-208013-208022/video_game_frontend"
+}
